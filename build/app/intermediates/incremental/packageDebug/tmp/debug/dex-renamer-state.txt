@@ -1,0 +1,16 @@
+#Mon Jul 01 13:44:03 PET 2024
+base.0=C\:\\Users\\Jose\\Proyects\\UPC-IngenieriaSoftware\\6.SEXTO SEMESTRE\\APP-MOVILES\\upc-cc283-2401-vw61-flutter-projects\\rick_morty_app\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\Jose\\Proyects\\UPC-IngenieriaSoftware\\6.SEXTO SEMESTRE\\APP-MOVILES\\upc-cc283-2401-vw61-flutter-projects\\rick_morty_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\Jose\\Proyects\\UPC-IngenieriaSoftware\\6.SEXTO SEMESTRE\\APP-MOVILES\\upc-cc283-2401-vw61-flutter-projects\\rick_morty_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.3=C\:\\Users\\Jose\\Proyects\\UPC-IngenieriaSoftware\\6.SEXTO SEMESTRE\\APP-MOVILES\\upc-cc283-2401-vw61-flutter-projects\\rick_morty_app\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+base.4=C\:\\Users\\Jose\\Proyects\\UPC-IngenieriaSoftware\\6.SEXTO SEMESTRE\\APP-MOVILES\\upc-cc283-2401-vw61-flutter-projects\\rick_morty_app\\build\\app\\intermediates\\dex\\debug\\mergeLibDexDebug\\0\\classes.dex
+path.0=classes.dex
+path.1=0/classes.dex
+path.2=1/classes.dex
+path.3=5/classes.dex
+path.4=0/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
+renamed.2=classes3.dex
+renamed.3=classes4.dex
+renamed.4=classes5.dex
