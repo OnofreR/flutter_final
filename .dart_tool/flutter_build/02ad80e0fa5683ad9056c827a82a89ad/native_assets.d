@@ -1,1 +1,0 @@
- C:\\Users\\Jose\\Proyects\\UPC-IngenieriaSoftware\\6.SEXTO\ SEMESTRE\\APP-MOVILES\\upc-cc283-2401-vw61-flutter-projects\\rick_morty_app\\.dart_tool\\flutter_build\\02ad80e0fa5683ad9056c827a82a89ad\\native_assets.yaml: 
